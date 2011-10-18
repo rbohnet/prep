@@ -87,6 +87,7 @@
     <Compile Include="infrastructure\ranges\InclusiveRange.cs" />
     <Compile Include="infrastructure\ranges\RangeWithNoUpperBound.cs" />
     <Compile Include="infrastructure\sorting\ComparableComparer.cs" />
+    <Compile Include="infrastructure\sorting\SortExtensions.cs" />
     <Compile Include="infrastructure\sorting\FixedComparer.cs" />
     <Compile Include="infrastructure\sorting\PropertyComparer.cs" />
     <Compile Include="infrastructure\sorting\ReverseComparer.cs" />
