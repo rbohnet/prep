@@ -1,0 +1,5 @@
+c:\course\prep\kata\KataFive\bin\Debug\KataFive.dll
+c:\course\prep\kata\KataFive\bin\Debug\KataFive.pdb
+c:\course\prep\kata\KataFive\obj\Debug\ResolveAssemblyReference.cache
+c:\course\prep\kata\KataFive\obj\Debug\KataFive.dll
+c:\course\prep\kata\KataFive\obj\Debug\KataFive.pdb

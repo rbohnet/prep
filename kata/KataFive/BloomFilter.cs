@@ -1,29 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
-namespace KataFive {
-    
-    public class BloomFilter {
+public class BloomFilter
+{
+
+    int[] bitmap;
+
+	public BloomFilter(IList<string> dictionary)
+	{
+        bitmap = new int[dictionary.size];
+
+	}
 
 
+    public bool searchFor(string wordToSearch) 
+    {
         
     }
+
+
+
 }
-
-
-/*
-Test: 
- * setup:
- * load dictionary
- * 
- * 1) Search for existing word
- * verify found
- * 
- * 2) Search for non-existent word
- * 
- * 
- * 
-
-*/
